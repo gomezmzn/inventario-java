@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+/home/user/eclipse-workspace/Inventario/.metadata/.plugins/org.eclipse.jdt.core
-3090018222.index
-2333658297.index

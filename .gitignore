@@ -1,0 +1,14 @@
+# Compilados
+bin/
+*.class
+
+# Eclipse
+.metadata/
+.settings/
+
+# IntelliJ / IDEA
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
